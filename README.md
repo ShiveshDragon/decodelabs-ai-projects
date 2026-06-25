@@ -199,7 +199,6 @@ DecodeLabs-Internship/
 ├── Project4.py
 ├── sample.jpg
 ├── README.md
-└── requirements.txt
 ```
 
 ---
